@@ -1,7 +1,7 @@
 name: CI/CD for Dockerized Flask App
 
 on: 
-  push:up-python
+  push:
     branches: [main]
   pull_request:
     branches: [main]
